@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) Themesberg (Bergside Inc.)
+ * Released under the MIT license
+ * https://opensource.org/licenses/MIT
+ */
+
 const ctx = document.getElementById("myChart");
 
 new Chart(ctx, {
